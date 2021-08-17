@@ -7,3 +7,6 @@ class Calculadora():
 
     def subtracao(self, valor_a, valor_b):
         return valor_a - valor_b
+
+    def divisao(selfself, valor_a, valor_b):
+        return valor_a / valor_b
