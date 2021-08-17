@@ -10,3 +10,7 @@ class Calculadora():
 
     def divisao(selfself, valor_a, valor_b):
         return valor_a / valor_b
+
+    def multiplicacao(self, valor_a, valor_b):
+        return valor_a * valor_b
+
